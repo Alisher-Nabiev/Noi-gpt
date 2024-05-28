@@ -49,6 +49,7 @@
     "node": ">=18.0"
   },
   "resolutions": {
-    "@algolia/autocomplete-plugin-algolia-insights": "1.15.1"
+    "@algolia/autocomplete-plugin-algolia-insights": "1.15.1",
+    "picocolors": "1.0.1"
   }
 }
