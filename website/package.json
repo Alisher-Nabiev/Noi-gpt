@@ -47,5 +47,8 @@
   },
   "engines": {
     "node": ">=18.0"
+  },
+  "resolutions": {
+    "@algolia/autocomplete-plugin-algolia-insights": "1.15.1"
   }
 }
